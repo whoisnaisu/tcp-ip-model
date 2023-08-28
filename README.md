@@ -25,3 +25,10 @@ TCP/IP is also used as a communications protocol in a private computer network (
 3. IPv4, IPv6, ICMP, RIP, OSPF
 4. Ethernet, Token ring, IEEE 802.11
 5. Infared, Bluetooth, WiFi, Fiber, Copper Wire, etc. 
+
+### Data Units
+1. Email -> Email message, Web -> Web page
+2. TCP -> Segment, UDP -> Datagram
+3. Packet (or IP datagram)
+4. Frame
+5. Bit
