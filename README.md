@@ -26,9 +26,13 @@ TCP/IP is also used as a communications protocol in a private computer network (
 4. Ethernet, Token ring, IEEE 802.11
 5. Infared, Bluetooth, WiFi, Fiber, Copper Wire, etc. 
 
+
 ### Data Units
 1. Email -> Email message, Web -> Web page
 2. TCP -> Segment, UDP -> Datagram
 3. Packet (or IP datagram)
 4. Frame
 5. Bit
+
+#### Noted
+Brand new ICP/IP Model has 5 layers while the old one has 4 (physical added)
